@@ -7,7 +7,7 @@ Uma landing page informativa criada para destacar a marca **Coca-Cola**, com um 
 ## Visualização do Projeto
 
 <p align="center">
-  <img src="https://github.com/Imayagmb/Landing-Page-Coca-Cola/assets/129901845/0bb1ce45-c0e7-4ace-a32c-b75c3f88c9a3" alt="Landing Page Coca-Cola" width="60%">
+  <img src="https://github.com/Imayagmb/Landing-Page-Coca-Cola/assets/129901845/0bb1ce45-c0e7-4ace-a32c-b75c3f88c9a3" alt="Landing Page Coca-Cola" width="80%">
 </p>
 
 ---
