@@ -30,3 +30,8 @@ Uma landing page informativa criada para destacar a marca **Coca-Cola**, com um 
 
 ---
 
+## Acesse o Projeto
+
+Você pode visualizar o projeto clicando no link abaixo:
+
+[Landing Page Coca-Cola](https://landing-page-coca-cola-alpha.vercel.app/#)
