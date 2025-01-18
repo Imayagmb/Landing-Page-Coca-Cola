@@ -11,7 +11,9 @@ Uma landing page informativa criada para destacar a marca **Coca-Cola**, com um 
 </p>
 
 ---
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/dc43b2a7-ebe1-481b-bb1d-cf7d7d56ff20" alt="Landing Page Coca-Cola" width="80%>
+</p>
 
 
 ## Funcionalidades
